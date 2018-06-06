@@ -1,0 +1,30 @@
+{
+  "name": "elementaryframework/terra-shield",
+  "description": "Common security tools for PHP",
+  "type": "library",
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Axel Nana",
+      "email": "ax.lnana@outlook.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1.10"
+  },
+  "keywords": [
+    "security",
+    "cryptography",
+    "hash",
+    "captcha",
+    "password"
+  ],
+  "autoload": {
+    "psr-4": {
+      "ElementaryFramework\\TerraShield\\": "src/TerraShield/"
+    }
+  }
+}
