@@ -25,7 +25,7 @@
  * @package   TerraShield
  * @author    Axel Nana <ax.lnana@outlook.com>
  * @copyright 2018 Aliens Group, Inc.
- * @license   MIT <https://github.com/ElementaryFramework/LightQL/blob/master/LICENSE>
+ * @license   MIT <https://github.com/ElementaryFramework/TerraShield/blob/master/LICENSE>
  * @version   0.0.1
  * @link      http://terrashield.na2axl.tk
  */

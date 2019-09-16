@@ -1,7 +1,7 @@
 <?php
 
 /**
- * LightQL - The lightweight PHP ORM
+ * TerraShield - Common security tools for PHP
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -22,15 +22,15 @@
  * SOFTWARE.
  *
  * @category  Library
- * @package   LightQL
+ * @package   TerraShield
  * @author    Axel Nana <ax.lnana@outlook.com>
  * @copyright 2018 Aliens Group, Inc.
- * @license   MIT <https://github.com/ElementaryFramework/LightQL/blob/master/LICENSE>
- * @version   1.0.0
- * @link      http://lightql.na2axl.tk
+ * @license   MIT <https://github.com/ElementaryFramework/TerraShield/blob/master/LICENSE>
+ * @version   0.0.1
+ * @link      http://terrashield.na2axl.tk
  */
 
-namespace ElementaryFramework\TerraShield\Cryptography\RSA;
+ namespace ElementaryFramework\TerraShield\Cryptography\RSA;
 
 use ElementaryFramework\TerraShield\Cryptography\IRSAEncryption;
 use ElementaryFramework\TerraShield\Exceptions\InvalidValueException;
